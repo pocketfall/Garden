@@ -1,5 +1,10 @@
 from docxtpl import DocxTemplate
 
+####################################################################
+# TO MODIFY THE CONTENT OF THE WORD DOCUMENT YOU MUST MARK IT LIKE #
+# {{element}} . NO SPACES ALLOWED                                  #
+####################################################################
+
 try:
     doc_input = input('\nEnter the name of the document to be modified, it must be a .docx file (example: document.docx)\n> ')
     doc = DocxTemplate(doc_input)
