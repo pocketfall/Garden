@@ -1,0 +1,16 @@
+body {
+  background-color: lightpink;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+input[type="submit"] {
+  margin: 10px;
+}
