@@ -1,5 +1,5 @@
 # Garden
 
-This is a repository where I will keep projects I want to be publicly visible.
+This is a repository where I will keep things I have made and want to be publicly visible.
 
 -pocketfall
