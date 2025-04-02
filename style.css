@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background: url(https://i.ytimg.com/vi/UKug9qGB4DI/maxresdefault.jpg);
+  background-size: cover;
+  font-family: "Times New Roman", Arial, sans-serif;
+}
+
+button {
+  padding: 7px 7px;
+  color: black;
+  background: aquamarine;
+  border-radius: 4px;
+  margin: 5px;
+  font-weight: bold;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+h1 {
+  color: pink;
+}
+
+h3 {
+  color: pink;
+}
+
+.result-el {
+  color: red;
+}
+
+.vs-el {
+  color: magenta;
+}
